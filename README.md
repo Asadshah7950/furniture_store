@@ -1,4 +1,4 @@
-# Furniture Store App
+﻿# Furniture Store App
 
 A Flutter e-commerce style furniture application with Firebase Authentication.
 Users can register, sign in, browse furniture items by category, search products,
@@ -87,3 +87,7 @@ flutter run
 - Ensure Firebase Authentication is enabled in Firebase Console.
 - For Android, verify package name and SHA settings if auth fails.
 - For production, consider stronger state management and backend product storage.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
